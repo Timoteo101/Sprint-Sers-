@@ -1,0 +1,23 @@
+{
+  "station": { "powerKw": 7.4, "solarBatteryKwh": 10.0, "pricePerKwh": 0.95, "solarDiscountPercent": 25 },
+  "vehicles": [
+    { "brand": "BYD", "model": "Dolphin Mini", "batteryKwh": 38 },
+    { "brand": "BYD", "model": "Dolphin", "batteryKwh": 44.9 },
+    { "brand": "BYD", "model": "Dolphin Plus", "batteryKwh": 60.5 },
+    { "brand": "BYD", "model": "Yuan Plus", "batteryKwh": 60.5 },
+    { "brand": "BYD", "model": "Seal", "batteryKwh": 82.5 },
+    { "brand": "GWM", "model": "Ora 03 Skin", "batteryKwh": 48 },
+    { "brand": "GWM", "model": "Ora 03 GT", "batteryKwh": 63 },
+    { "brand": "Chevrolet", "model": "Bolt EV", "batteryKwh": 66 },
+    { "brand": "Chevrolet", "model": "Bolt EUV", "batteryKwh": 66 },
+    { "brand": "Volvo", "model": "EX30 Extended Range", "batteryKwh": 69 },
+    { "brand": "Volvo", "model": "EX30 Twin Motor", "batteryKwh": 69 },
+    { "brand": "Renault", "model": "Kwid E-Tech", "batteryKwh": 26.8 },
+    { "brand": "JAC", "model": "E-JS1", "batteryKwh": 30.2 },
+    { "brand": "Nissan", "model": "Leaf", "batteryKwh": 40 },
+    { "brand": "Peugeot", "model": "e-208 GT", "batteryKwh": 50 },
+    { "brand": "Fiat", "model": "500e", "batteryKwh": 42 },
+    { "brand": "Tesla", "model": "Model 3 (Long Range)", "batteryKwh": 75 },
+    { "brand": "Outro", "model": "Informar capacidade manualmente", "batteryKwh": null }
+  ]
+}
