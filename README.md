@@ -1,6 +1,6 @@
-Link Youtube -
+Link Youtube - https://www.youtube.com/watch?v=FVtcLG4cynk
 
-Link Tinkercad - 
+Link Tinkercad - https://www.tinkercad.com/things/gNlsrYzWHuw-sprint-sers?sharecode=URexitqT-wUmByHMubmHJmYJloVUOJI4OyTHdKGM4oY
 
 ECOGRID CEV — Sistema de carregamento de veículos elétricos
 
